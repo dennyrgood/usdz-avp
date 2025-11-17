@@ -1,0 +1,54 @@
+{
+  "255D9D5B-1D83-4203-AAA4-FD7046BFC607" : {
+    "objectMetadataList" : [
+      [
+        "255D9D5B-1D83-4203-AAA4-FD7046BFC607",
+        "Root",
+        "Transform"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "255D9D5B-1D83-4203-AAA4-FD7046BFC607",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "D0E65BB9-6786-4675-A015-E7610630139C" : {
+    "objectMetadataList" : [
+      [
+        "D0E65BB9-6786-4675-A015-E7610630139C",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "D0E65BB9-6786-4675-A015-E7610630139C",
+        "Root",
+        "Video_Dock",
+        "Ground"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "D0E65BB9-6786-4675-A015-E7610630139C",
+        "Root",
+        "Video_Dock"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  }
+}

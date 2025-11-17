@@ -1,0 +1,11 @@
+{
+  "pathsToIds" : {
+    "TestUDSZavp\/Sources\/TestUDSZavp\/TestUDSZavp.rkassets\/Scene.usda" : "D0E65BB9-6786-4675-A015-E7610630139C",
+    "TestUDSZavp\/Sources\/TestUDSZavp\/TestUDSZavp.rkassets\/SceneTestWallMountPump.usda" : "255D9D5B-1D83-4203-AAA4-FD7046BFC607"
+  },
+  "projectID" : -2220876412230179192,
+  "uuidToIntID" : {
+    "255D9D5B-1D83-4203-AAA4-FD7046BFC607" : 669339010749859514,
+    "D0E65BB9-6786-4675-A015-E7610630139C" : -5919974558594693453
+  }
+}
