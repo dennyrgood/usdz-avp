@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "created": "2025-11-25T00:33:40.460400",
+    "last_scan": null,
+    "last_apply": "2025-11-25T00:34:29.791111"
+  },
+  "categories": [
+    "Guides",
+    "Workflows",
+    "scripts",
+    "Models",
+    "QuickRefs",
+    "Junk",
+    "Scripts"
+  ],
+  "documents": {
+    "./index.html": {
+      "hash": "sha256:cc86a6c63e83ee06ccad1d962648811ab10c7d813e62c224c7fe014f56fc5bd7",
+      "category": "Guides",
+      "summary": "An HTML document serving as an index page for project documentation with styled navigation and search functionality.",
+      "summary_approved": true,
+      "title": "index",
+      "last_processed": "2025-11-25T00:34:29.790930",
+      "file_mtime": "2025-11-25T00:33:40.497301"
+    },
+    "./Generate Index Documentation.pdf": {
+      "hash": "sha256:4c613b9bf44cf1c874413c16abcdd8e9117aeeac59693a7aba3938daa3be892f",
+      "category": "scripts",
+      "summary": "This document describes the 'generate_index_with_USDZ.sh' script that creates an HTML gallery for USDZ files with thumbnails and modern styling, tailored for GitHub Pages deployment.",
+      "summary_approved": true,
+      "title": "Generate Index Documentation",
+      "last_processed": "2025-11-25T00:34:29.791004",
+      "file_mtime": "2025-08-02T19:00:49.631010",
+      "readable_version": "./md_outputs/Generate Index Documentation.md"
+    },
+    "./Deploy Script Documentation.pdf": {
+      "hash": "sha256:ac8922d93b63d34ea8bfe0313677832ccc5f643f13d58511ef749be4bc06dede",
+      "category": "Scripts",
+      "summary": "This document outlines the 'deploy.sh' script for automating Git workflows with error handling and zero-downtime deployments, optimized for static site deployment.",
+      "summary_approved": true,
+      "title": "Deploy Script Documentation",
+      "last_processed": "2025-11-25T00:34:29.791020",
+      "file_mtime": "2025-08-02T19:03:05.972515",
+      "readable_version": "./md_outputs/Deploy Script Documentation.md"
+    },
+    "./README.md": {
+      "hash": "sha256:2c5c805900ab75083a2173e4a76cfb39d2e8c4884e69f10cae94594010a0640f",
+      "category": "Guides",
+      "summary": "README for a GitHub repository containing scripts to manage and deploy USDZ files with thumbnails on GitHub Pages.",
+      "summary_approved": true,
+      "title": "README",
+      "last_processed": "2025-11-25T00:34:29.791035",
+      "file_mtime": "2025-10-21T19:33:51.743470"
+    },
+    "./Refresh - USDZ Thumbnailer Script Documentation.pdf": {
+      "hash": "sha256:122822d47275d9ef4b22c0203ab4c4504d2d200b782f85a8b4be970bff76836e",
+      "category": "Guides",
+      "summary": "This document provides documentation for a Swift script that automates the generation of PNG thumbnails from USDZ files with features like batch processing and caching.",
+      "summary_approved": true,
+      "title": "Refresh - USDZ Thumbnailer Script Documentation",
+      "last_processed": "2025-11-25T00:34:29.791049",
+      "file_mtime": "2025-08-02T18:54:37.612478",
+      "readable_version": "./md_outputs/Refresh - USDZ Thumbnailer Script Documentation.md"
+    },
+    "./HISTORY.txt": {
+      "hash": "sha256:9358b6d7c8a7fcfa723834d288c7425f1a6839a0ff7f33178e2d62a3239517e5",
+      "category": "Workflows",
+      "summary": "This document contains a sequence of shell commands executed by a user, primarily focused on manipulating and viewing log files and executing a Swift script.",
+      "summary_approved": true,
+      "title": "HISTORY",
+      "last_processed": "2025-11-25T00:34:29.791061",
+      "file_mtime": "2025-08-16T18:36:28.909817"
+    },
+    "./README_old.md": {
+      "hash": "sha256:2c5c805900ab75083a2173e4a76cfb39d2e8c4884e69f10cae94594010a0640f",
+      "category": "Guides",
+      "summary": "README for MyWebsiteGIT detailing usage and scripts for managing USDZ files with thumbnails on GitHub Pages.",
+      "summary_approved": true,
+      "title": "README_old",
+      "last_processed": "2025-11-25T00:34:29.791073",
+      "file_mtime": "2025-11-08T02:11:17.636566"
+    },
+    "./Script Documentation  refresh swift index deploy.docx": {
+      "hash": "sha256:b5ab6c005b2a4c46ea83fb2aa64feb1f87fd9bbce6c2e45ea3d6ec129de815e8",
+      "category": "scripts",
+      "summary": "This document outlines a Swift script for batch processing USDZ files to generate PNG thumbnails with caching and error logging, integrating deployment.",
+      "summary_approved": true,
+      "title": "Script Documentation  refresh swift index deploy",
+      "last_processed": "2025-11-25T00:34:29.791085",
+      "file_mtime": "2025-08-03T15:41:46.071218",
+      "readable_version": "./md_outputs/Script Documentation  refresh swift index deploy.md"
+    }
+  }
+}
